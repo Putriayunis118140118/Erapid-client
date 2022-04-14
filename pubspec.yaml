@@ -1,0 +1,54 @@
+name: erapid_new
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
+  get: ^4.5.1 
+  provider: ^6.0.1
+  stacked: ^2.2.7+1
+  flutter_svg: ^1.0.0
+  intl: ^0.17.0
+  flutter_icons: ^1.1.0
+  dio: ^4.0.4
+  cool_alert: ^1.1.0
+  shared_preferences: ^2.0.11 
+  dropdown_search: ^2.0.1 
+  hovering: ^1.0.4 
+  flutter_screenutil: ^5.0.1+2 
+  data_table_2: ^2.2.0 
+  file_picker: ^4.3.0
+  universal_html: ^2.0.8
+  scroll_to_index: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+dependency_overrides:
+ 
+  flutter_icons:
+    git:
+      url: git://github.com/jibiel/flutter-icons.git
+      ref: master
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+    - assets/landing/
