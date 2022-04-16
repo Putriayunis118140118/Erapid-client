@@ -7,4 +7,4 @@
 ![](https://github.com/Putriayunis118140118/Erapid-client/blob/master/01%20Main%20Page.PNG?raw=true)
 
 ### Demo Program
-[Demo Program](https://youtu.be/DYKj-2PhKxw "Demo Program")### Features
+[Demo Program](https://youtu.be/DYKj-2PhKxw "Demo Program")
